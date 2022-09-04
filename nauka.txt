@@ -1,3 +1,4 @@
+będziemy resetowac pliczek znowu zmiana
 nauka to potegi klucz
 ojtam gadacie bez sensu
 jeszcze jedna próba z fetch i merge
