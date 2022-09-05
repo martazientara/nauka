@@ -1,1 +1,2 @@
 probuje zrobic konflikt ale totalnie mi się to nie udaje
+za to teraz spobuje zrobic pull requesta
